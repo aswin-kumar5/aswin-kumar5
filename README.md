@@ -2,18 +2,21 @@
 
 # 👋 Hi, I'm Aswin Kumar N
 
-### 💻 Aspiring Software Developer
+### 💻 Computer Science Student | Learning • Building • Improving
 
 **Java • Python • JavaScript • React • Flask • SQL**
 
-<a href="https://github.com/aswin-kumar5">
-  <img src="https://img.shields.io/badge/GitHub-aswin--kumar5-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://linkedin.com/in/aswin-kumar5">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/aswin-kumar5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Aswin%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/aswin-kumar5">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://aswin-kumar.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 <a href="mailto:aswinkumar5306@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -22,142 +25,126 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** passionate about software development, problem-solving, and building practical applications.
-
-- 🎓 Pursuing **B.Sc. Computer Science** at KG College of Arts and Science
-- ☕ Strong foundation in **Core Java, OOP, and programming fundamentals**
-- 🧠 Interested in **Data Structures, Algorithms, and problem-solving**
-- 🌐 Exploring **web and full-stack application development**
-- 🚀 Building practical projects to strengthen my development skills
-- 🎯 Preparing for opportunities in **software development**
+🎓 Computer Science student passionate about software development and problem-solving.  
+💻 I enjoy building practical applications and continuously improving my programming skills.  
+🚀 Currently focused on Java, DSA, web development, and building real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
 </p>
 
-### 🌐 Frontend
-
+### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend
-
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-### 🔧 Tools
-
+### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
 ---
 
+## 📚 Currently Learning
+
+- ☕ **Advanced Java**
+- 🧩 **Data Structures & Algorithms**
+- 🗄️ **SQL**
+- 🌐 **Web Development**
+- 🧠 **Problem Solving**
+
+---
+
 ## 🚀 Featured Projects
 
-### 🔬 OncoPredict
-**AI-Powered Cancer Target Identification System**
+### 🧬 OncoPredict — AI-Powered Cancer Target Identification System
 
-AI-powered breast cancer therapeutic target prioritization system using **XGBoost and PyTorch**, with a Flask-based web application for target ranking, risk classification, visualization, and CSV export.
+`Python` `Flask` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `PyTorch`
 
-**Tech:** Python • Flask • Pandas • NumPy • Scikit-learn • XGBoost • PyTorch
+AI-powered platform for breast cancer therapeutic target prioritization using machine learning and anomaly detection.
 
-<a href="https://github.com/aswin-kumar5/oncopredict">View Repository →</a>
-
----
-
-### 🏭 APEX Manufacturing – Mini ERP
-
-ERP system developed for a garments manufacturing unit to manage **inventory, production, employees, and sales operations**, with role-based access, dashboards, and reporting.
-
-**Tech:** HTML • CSS • JavaScript • Flask • SQLite
-
-<a href="https://github.com/aswin-kumar5/garments-management-system">View Repository →</a>
+🔗 [**View Repository**](https://github.com/aswin-kumar5/oncopredict)
 
 ---
 
-### 📦 InventoryPro
+### 🏭 APEX Manufacturing — Mini ERP System
 
-Java-based inventory and sales management system using **OOP, Collections, File I/O, exception handling, search, sorting, reporting, and Stack-based undo functionality**.
+`HTML5` `CSS3` `JavaScript` `Python` `Flask` `SQLite`
 
-**Tech:** Java • OOP • Collections • File I/O • Exception Handling
+Web-based ERP system for managing inventory, production, finished goods, employees, sales, and business reports.
 
-<a href="https://github.com/aswin-kumar5/inventorypro-java">View Repository →</a>
-
----
-
-### 🍽️ Kovai Flavours
-
-React-based restaurant ordering application featuring **menu search, cart management, table reservations, order history, routing, and form validation**.
-
-**Tech:** React • JavaScript • HTML • CSS • Vite • React Router
-
-<a href="https://github.com/aswin-kumar5/restaurant-ordering-system">View Repository →</a>
+🔗 [**View Repository**](https://github.com/aswin-kumar5/garments-management-system)
 
 ---
 
-### 💰 Expense Tracker
+### 📦 InventoryPro — Smart Inventory Management System
 
-Full-stack expense tracking application with **authentication, expense CRUD operations, category filtering, budget tracking, and REST APIs**.
+`Java` `OOP` `Collections` `File I/O` `Exception Handling`
 
-**Tech:** React • Node.js • Express.js • MongoDB • Axios
+Java-based inventory and sales management system with file persistence, searching, sorting, reporting, and Stack-based undo operations.
 
-<a href="https://github.com/aswin-kumar5/expense-tracker">View Repository →</a>
+🔗 [**View Repository**](https://github.com/aswin-kumar5/inventorypro-java)
+
+---
+
+### 🍽️ Kovai Flavours — Restaurant Ordering System
+
+`React` `JavaScript` `HTML5` `CSS3` `React Router`
+
+Restaurant ordering application with menu search, filtering, cart management, table reservations, order history, and routing.
+
+🔗 [**View Repository**](https://github.com/aswin-kumar5/restaurant-ordering-system)  
+🌐 [**Live Demo**](https://kovai-flavours.netlify.app/)
 
 ---
 
 ## 💼 Experience
 
-### 👨‍🏫 Junior Programming Trainer — C-TECH IT Institution
+### Junior Programming Trainer — C-TECH IT Institution
 
-- Delivered practical training in **C, Python, and OOP using C++**.
-- Guided students in understanding programming concepts and solving coding problems.
+*Mar 2024 – Mar 2025*
 
----
-
-## 📚 Currently Focusing On
-
-<p align="center">
-
-`Core Java` &nbsp; `DSA` &nbsp; `Problem Solving` &nbsp; `SQL` &nbsp; `Web Development`
-
-</p>
+- 👨‍🏫 Trained students in **C Programming, Python Programming, and OOP using C++**.
+- 💡 Guided students in programming fundamentals, problem-solving, and coding practice.
 
 ---
 
-## 🎯 Career Goal
+## 🤝 Connect With Me
 
-> **Learn continuously. Build practical solutions. Solve problems. Grow as a software developer.**
+<div align="center">
+
+<a href="https://linkedin.com/in/aswin-kumar5">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/aswin-kumar5">
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://aswin-kumar.netlify.app/">
+  <img src="https://skillicons.dev/icons?i=googlechrome" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:aswinkumar5306@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-<a href="https://www.linkedin.com/in/aswin-kumar5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:aswinkumar5306@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-**💡 Learn • Build • Solve • Grow**
+### **LEARN • BUILD • SOLVE • IMPROVE 🚀**
 
 </div>
