@@ -132,7 +132,7 @@ Restaurant ordering application with menu search, filtering, cart management, ta
 </a>
 &nbsp;&nbsp;
 <a href="https://aswin-kumar.netlify.app/">
-  <img src="https://img.icons8.com/ios-filled/100/FFFFFF/globe.png" width="45" />
+  <img src="https://skillicons.dev/icons?i=netlify" width="45" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:your-email@example.com">
