@@ -6,25 +6,18 @@
 
 **Java • Python • JavaScript • React • Flask • SQL**
 
-<div align="center">
-
 <a href="https://linkedin.com/in/aswin-kumar5">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/aswin-kumar5">
-  <img src="https://cdn.simpleicons.org/github/181717" width="45" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="https://aswin-kumar.netlify.app/">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="45" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="mailto:aswinkumar5306@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
 
 </div>
 
@@ -131,19 +124,19 @@ Restaurant ordering application with menu search, filtering, cart management, ta
 <div align="center">
 
 <a href="https://linkedin.com/in/aswin-kumar5">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/aswin-kumar5">
-  <img src="https://cdn.simpleicons.org/github/181717" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 &nbsp;&nbsp;
 <a href="https://aswin-kumar.netlify.app/">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="45" />
+  <img src="https://img.icons8.com/ios-filled/100/FFFFFF/globe.png" width="45" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
+<a href="mailto:your-email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
 </a>
 
 </div>
